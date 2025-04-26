@@ -22,7 +22,7 @@ bedrock_client = None
 # モデルID
 MODEL_ID = os.environ.get("MODEL_ID", "us.amazon.nova-lite-v1:0")
 
-FASTAPI_BASE_URL = "https://1a02-34-69-80-70.ngrok-free.app"
+FASTAPI_BASE_URL = "https://4f95-35-240-186-244.ngrok-free.app"
 # FastAPIの推論エンドポイントパス
 FASTAPI_GENERATE_PATH = "/generate" # 提示されたパス
 
